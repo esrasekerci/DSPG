@@ -1,4 +1,4 @@
-# Data Science for the Public Good – İstanbul (DSPG)
+# Data Science for the Public Good – İstanbul
 
 This repository includes assignments and learning materials from the **Kodluyoruz & İstanbul Data Science for the Public Good Bootcamp**. The program aims to equip participants with hands-on data science skills to solve real-world problems for public benefit.
 
